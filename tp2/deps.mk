@@ -1,0 +1,1 @@
+zyxcba: zyxcba.o csv.o hash.o funciones_tp2.o clinica.o abb.o heap.o cola.o strutil.o lista.o pila.o
